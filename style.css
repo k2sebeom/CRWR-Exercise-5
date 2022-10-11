@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+}
+
+header {
+    height: 50vh;
+    width: 100vw;
+    background-color: orange;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    z-index: -1;
+}
+
+.container {
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 100px;
+    margin-bottom: 150px;
+}
+
+.script {
+    font-size: large;
+    line-height: 27px;
+}
